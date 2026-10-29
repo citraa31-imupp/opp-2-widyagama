@@ -1,0 +1,15 @@
+Rangkuman
+ 
+Pembuatan File pada Ruby on Rails
+Ruby on Rails adalah kerangka kerja yang menerapkan prinsip Konvensi di Atas Konfigurasi dan Jangan Mengulang Diri. Saat proyek dibuat, Rails secara otomatis menyusun struktur folder dan file sesuai standar — model, tampilan, pengendali, berkas rute, serta konfigurasi basis data — tanpa harus dibuat satu per satu secara manual. Perintah pembuatan kode dasar juga tersedia, sehingga pengembang langsung fokus pada logika bisnis, bukan menyusun kerangka berkas yang berulang.
+ 
+Pernyataan: Era Pemrograman Manual Sudah Selesai
+Pembicara menyampaikan bahwa dengan adanya kerangka kerja canggih seperti Rails, pekerjaan menulis kode dasar secara manual sudah tidak relevan lagi. Pembuatan struktur berkas, pengaturan rute, hingga hubungan tabel basis data dapat dilakukan secara otomatis. Hal ini mengubah peran pengembang dari sekadar mengetik kode menjadi merancang logika dan memvalidasi hasil yang dihasilkan sistem .
+ 
+Pendapat
+ 
+Pernyataan tersebut benar sebagian, tetapi belum sepenuhnya.
+ 
+- Benar karena bagian penulisan kode berulang, penyusunan struktur berkas, dan pengaturan dasar memang sudah dapat dikerjakan secara otomatis. Pengembang tidak perlu lagi menulis semuanya dari nol, sehingga waktu lebih banyak digunakan untuk hal yang bernilai tinggi.
+​
+- Belum sepenuhnya benar karena pemahaman mendasar tetap diperlukan. Menggunakan Rails tanpa mengerti cara kerjanya akan sulit saat menghadapi kondisi khusus atau masalah yang muncul. Kode yang dihasilkan otomatis tetap perlu diperiksa, dipahami, dan disesuaikan.
